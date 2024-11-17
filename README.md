@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mslawsky
-- 👀 I’m interested in expanding my no-code prototyping skills into advanced data analytics and visualization tools. 
+- 👀 I’m interested in expanding my qualitative and quantitative analysis skills and no-code prototyping skilils into advanced data analytics and visualization tools. 
 - 🌱 I’m currently learning programming languages and machine learning - Google BI and Advanced Data Analytics certifications - to turn my data visualization dreams into a reality.
 - 💞️ I’m looking to collaborate on tools for value modeling as well as analytical, operational, and strategic dashboards.
 - 📫 How to reach me melissa@melissaslawsky.com
