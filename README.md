@@ -12,7 +12,7 @@ Strategy and operations leader specializing in performance innovation through da
 - Google Business Intelligence & Advanced Data Analytics certifications
 - Value modeling and dashboard visualization development
 - 3D modeling explorations using Rubik's cube algorithms
-- Converting no-code solutions into programmatic implementations
+- Converting no-code tools into dashboards and real-time analytic solutions
 
 ## Portfolio Highlights 🔎
 
