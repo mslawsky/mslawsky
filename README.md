@@ -16,7 +16,7 @@ Strategy and operations leader specializing in performance innovation through da
 
 ## Portfolio Highlights 🔎
 
-### 1. Data Strategy & Implementation for Performance Enhancement
+### 1. Data Strategy & Implementation for Performance Optimization
 [View Full Project](https://github.com/mslawsky/google-fiber-dashboard-analytics)
 <img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
 - Applied 80/20 principle for 75% performance improvement
@@ -24,7 +24,7 @@ Strategy and operations leader specializing in performance innovation through da
 - Developed data-driven recommendations for resource optimization
   
 
-### 2. Qualitative Research for Program Optimization
+### 2. Qualitative Research for Program Enhancement
 [View Published Research](https://digitalcommons.usf.edu/etd/3352/)
 <img src="https://raw.githubusercontent.com/mslawsky/qualitative-dissertation-research/main/thematic-analysis.png" alt="Thematic Analysis Framework" width="50%">
 - Analyzed 40+ hours of interview data
