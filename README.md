@@ -1,6 +1,6 @@
 # Melissa Slawsky
 [![Data Strategy](https://img.shields.io/badge/Strategy-Data--Driven-blue)]()
-[![Location](https://img.shields.io/badge/Location-Asheville%20NC-green)]()
+[![Location](https://img.shields.io/badge/Location-Arden%20NC-green)]()
 [![Innovation](https://img.shields.io/badge/Focus-Strategic%20Management-orange)]()
 
 Hi, I'm Melissa Slawsky. 
