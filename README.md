@@ -22,12 +22,20 @@ Strategy and operations leader specializing in performance innovation through da
 - Applied 80/20 principle for 75% performance improvement
 - Created interactive Tableau dashboards for real-time insights
 - Developed data-driven recommendations for resource optimization
-  
 
-### 2. Qualitative Research for Program Enhancement
+
+### 2. Consumer Insights & Analytics
+[View Project Overview]([https://digitalcommons.usf.edu/etd/3352/](https://github.com/mslawsky/consumer-insights-and-analytics-evolution))
+<img src="https://raw.githubusercontent.com/mslawsky/consumer-insights-and-analytics-overview/main/pattern-alignment-visualization.png" alt="Pattern Alignment Visualization" width="50%">
+- Analyzed qualitative and quantitative data to uncover customer behavior patterns
+- Developed advanced algorithms aligning business value with user needs
+- Delivered actionable insights through real-time analytics and intuitive dashboards
+
+  
+### 3. Qualitative Research for Program Enhancement
 [View Published Research](https://digitalcommons.usf.edu/etd/3352/)
-<img src="https://raw.githubusercontent.com/mslawsky/qualitative-dissertation-research/main/thematic-analysis.png" alt="Thematic Analysis Framework" width="50%">
-- Analyzed 40+ hours of interview data
+<img src="https://raw.githubusercontent.com/mslawsky/qualitative-dissertation-research/main/thematic-analysis.png" alt="Thematic Analysis Framework" width="45%">
+- Analyzed 20+ hours of interview data
 - Developed comprehensive thematic framework
 - Published dissertation exploring experiential learning
 
