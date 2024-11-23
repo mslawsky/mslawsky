@@ -6,7 +6,7 @@
 Hi, I'm Melissa Slawsky. 
 
 ## About 👤
-Strategy and operations leader specializing in performance innovation through data-driven insights. 
+Strategy and operations leader specializing in performance innovation through customer-focused, data-driven insights. 
 
 ## Current Focus 🔬
 - Google Business Intelligence & Advanced Data Analytics certifications
