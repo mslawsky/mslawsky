@@ -45,6 +45,7 @@ Strategic market analysis leveraging business intelligence to identify growth op
 ___
 ### 3. Evolving for Sustainability: 80/20 Performance Optimization
 Implementation of 80/20 analysis for sustainable growth, demonstrating systematic approach to value creation.
+
 [View Full Project](https://github.com/mslawsky/google-fiber-dashboard-analytics)
 
 <img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
@@ -55,7 +56,6 @@ Implementation of 80/20 analysis for sustainable growth, demonstrating systemati
 ___
 ### 4. Efficient Resource Allocation: Highway Infrastructure Study
 Leveraging traffic pattern analysis to optimize infrastructure planning and resource allocation
-
 [View Full Project](https://github.com/mslawsky/traffic-volume-study/blob/main/README.md)
 <img src="dashboard-traffic-volume-analysis.png" width="50%">
 - Created interactive dashboards visualizing peak traffic periods and weather impacts
