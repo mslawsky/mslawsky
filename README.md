@@ -45,10 +45,9 @@ Strategic market analysis leveraging business intelligence to identify growth op
 ___
 ### 3. Evolving for Sustainability: 80/20 Performance Optimization
 Implementation of 80/20 analysis for sustainable growth, demonstrating systematic approach to value creation.
+<img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
 
 [View Full Project](https://github.com/mslawsky/google-fiber-dashboard-analytics)
-
-<img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
 - Applied 80/20 principle for 75% performance improvement
 - Created interactive Tableau dashboards for real-time insights
 - Developed data-driven recommendations for resource optimization
