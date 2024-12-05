@@ -17,7 +17,7 @@ Strategy and operations leader accelerating value, growth, and performance for f
 
 ## Portfolio Highlights 🔎
 
-### 1. Scaling Operations: Advisory to Analytics
+### 1. Scaling Operations: From Advisory to Analytics
 Showcasing progression from service design to data-driven insights, highlighting automation and efficiency gains while maintaining quality.
 <p float="left">
  <img src="scaling-services-2.png" width="30%" />
