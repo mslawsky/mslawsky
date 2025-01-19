@@ -7,7 +7,7 @@
 Hi, I'm Melissa Slawsky. 
 
 ## About 👤
-Strategy and operations leader accelerating value, growth, and performance for forward-thinking organizations navigating critical inflection points. 
+Strategy and operations specialist, accelerating value, growth, and performance for forward-thinking organizations navigating critical inflection points. 
 
 ## Current Focus 🔬
 - Strategic growth frameworks and performance analytics
