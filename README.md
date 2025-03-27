@@ -170,15 +170,24 @@ ___
 <details>
   <summary>Analytics & Intelligence 📊</summary>
   
-  ### Tools
+   ### Tools
   - Business Intelligence
   - Advanced Analytics
+  - Predictive Modeling
   - Real-time Dashboards
   
   ### Platforms
   - Tableau
   - BigQuery
-  - Airtable
+  - Airtable (Relational Databases)
+  - SQL, Python (Data Preparation)
+  - Power BI
+  
+  ### Techniques
+  - Data Cleaning & ETL
+  - Data Visualization & Storytelling
+  - Forecasting & Segmentation
+  - Hypothesis Testing
 </details>
 
 <details>
