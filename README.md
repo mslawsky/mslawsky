@@ -73,7 +73,7 @@ ___
 </details>
 
 <details>
-  <summary>🔍 Exploratory Data Analysis (Qualitative)</summary>
+  <summary>🔍 Exploratory Data Analysis (Qualitative Research)</summary>
   
   ### Projects
   - **[Qualitative Dissertation Research](https://github.com/mslawsky/qualitative-dissertation-research):** Conducted thematic analysis using Nvivo on 20+ hours of interview data, uncovering insights for program improvement and professional development.
