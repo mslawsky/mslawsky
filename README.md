@@ -84,7 +84,7 @@ ___
   
   ### Projects
   - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Combines descriptive, diagnostic, and prescriptive analytics for channel optimization.
-  - **[Time Optimization Analyses:**
+  - **Time Optimization Analyses:**
     - **[Version 1](https://github.com/mslawsky/time-optimization-v1-using-80-20-analysis):** Applies the Pareto principle for efficiency.
     - **[Version 2](https://github.com/mslawsky/time-optimization-v2-beyond-80-20):** Balances efficiency with multi-horizon goals.
 </details>
