@@ -140,19 +140,20 @@ Implementation of 80/20 analysis for sustainable growth, demonstrating systemati
 - Developed data-driven recommendations for resource optimization
 
 ___
-### 4. Efficient Resource Allocation: Highway Infrastructure Study
-Leveraging traffic pattern analysis to optimize infrastructure planning and resource allocation
-<img src="dashboard-traffic-volume-analysis.png" width="50%">
+### 4. Efficient Resource Allocation: Marketing Budget Optimization
+Determining ROI and most impactful marketing channels through advanced statistical analysis and ML. 
+<img src="marketing-channel-roi-distribution.png" width="50%">
 
-[View Full Project](https://github.com/mslawsky/traffic-volume-study/blob/main/README.md)
-- Created interactive dashboards visualizing peak traffic periods and weather impacts
-- Developed data-driven framework for strategic resource deployment
-- Identified optimization opportunities through temporal and condition-based analysis
-- Generated actionable recommendations for sustainable infrastructure planning
+[View Full Project](https://github.com/mslawsky/marketing-budget-impact-analysis)
+- Applied linear regression to optimize marketing budget allocation for maximum sales impact
+- Developed predictive models identifying most effective marketing channels
+- Quantified ROI for different marketing strategies with statistical precision
+- Enabled data-driven decision-making for strategic resource allocation
 
 
 ___
 ### 5. Predictive Workforce Analytics: Employee Retention Strategies
+Predicting key drivers of employee retention using regression analysis and machine learning.
 <img src="correlation-matrix.png" width="65%">
 
 [View Full Project](https://github.com/mslawsky/predicting-employee-turnover)
