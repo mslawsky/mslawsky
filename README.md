@@ -15,6 +15,82 @@ Strategy and operations specialist, accelerating value, growth, and performance 
 - Data-driven optimization systems for scaling operations
 - Converting analytics into actionable business intelligence
 
+___
+## Business Analytics 🧮
+
+<details>
+  <summary>📈 Descriptive Analytics</summary>
+  
+  ### Projects
+  - **[Airbnb Market Analysis (Athens)](https://github.com/mslawsky/market-analysis-airbnb-athens):** Visualized key trends and customer preferences to identify underserved areas and market opportunities for Athens Airbnb.
+  - **[Google Fiber Dashboard Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics):** Analyzed performance metrics to identify bottlenecks and prioritize resource allocation, enabling targeted improvements in service delivery and operational efficiency.
+</details>
+
+<details>
+  <summary>🔍 Diagnostic Analytics</summary>
+  
+  ### Projects
+  - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Decoded NBA career sustainability using classification modeling and factor analysis, highlighting efficiency metrics as a key leverage point for talent strategy.
+  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Developed machine learning models (Random Forest, Logistic Regression) to identify key turnover drivers for an automobile manufacturer, enabling proactive retention strategies.
+</details>
+
+<details>
+  <summary>🤖 Predictive Analytics (Supervised ML)</summary>
+  
+  ### Clients/Users
+  - **[Airline Customer Satisfaction](https://github.com/mslawsky/airline-customer-satisfaction-prediction):** Utilized ML models to predict customer satisfaction, identifying key drivers and providing actionable insights to enhance customer experience.
+  - **[Bank Customer Churn Prevention](https://github.com/mslawsky/predicting-bank-customer-churn):** Leveraged ML models to identify at-risk customers and optimize retention strategies.
+  - **[Waze User Analytics](https://github.com/mslawsky/waze-user-analytics):** Leveraged ML to predict user churn, uncover behavioral patterns, and provide actionable insights.
+
+  ### Employee Experience
+  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Identified turnover drivers for strategic retention solutions.
+
+  ### Talent Management
+  - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Explored factors influencing NBA career longevity for talent strategies.
+</details>
+
+<details>
+  <summary>🧭 Prescriptive Analytics</summary>
+  
+  ### Projects
+  - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Applied linear regression and statistical analysis to optimize budget allocation for maximum sales impact.
+  - **[Traffic Volume Study](https://github.com/mslawsky/traffic-volume-stud):** Visualized historical traffic trends to optimize resource planning during peak times.
+</details>
+
+<details>
+  <summary>🧠 Cognitive Analytics</summary>
+  
+  ### Projects
+  - **[Waze - Beyond the Numbers](https://github.com/mslawsky/waze-beyond-the-numbers):** Combines AI and ML to uncover root causes of churn patterns, providing deep insights into user behavior and preferences.
+</details>
+
+<details>
+  <summary>📊 Clustering Approaches (Unsupervised ML)</summary>
+  
+  ### Projects
+  - **[K-Means Color Compression](https://github.com/mslawsky/k-means-color-regression):** Leveraged clustering to extract color palettes for efficient image compression.
+  - **[Penguin Clustering with K-Means](https://github.com/mslawsky/penguin-clustering-with-k-means):** Used clustering to segment penguin populations by species/sex for conservation priorities.
+</details>
+
+<details>
+  <summary>🔍 Exploratory Data Analysis (Qualitative)</summary>
+  
+  ### Projects
+  - **[Qualitative Dissertation Research](https://github.com/mslawsky/qualitative-dissertation-research):** Conducted thematic analysis using Nvivo on 20+ hours of interview data, uncovering insights for program improvement and professional development.
+</details>
+
+<details>
+  <summary>🌐 Integrated Analytics Projects</summary>
+  
+  ### Projects
+  - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Combines descriptive, diagnostic, and prescriptive analytics for channel optimization.
+  - **[Time Optimization Analyses:**
+    - **[Version 1](https://github.com/mslawsky/time-optimization-v1-using-80-20-analysis):** Applies the Pareto principle for efficiency.
+    - **[Version 2](https://github.com/mslawsky/time-optimization-v2-beyond-80-20):** Balances efficiency with multi-horizon goals.
+</details>
+
+___
+
 ## Portfolio Highlights 🔎
 
 ### 1. Scaling Operations: From Advisory to Analytics
