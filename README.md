@@ -20,7 +20,7 @@ ___
 ## Business Analytics Projects 📉
 
 <details>
-  <summary>📈 Descriptive Analytics</summary>
+  <summary>Descriptive Analytics 📈</summary>
   
   ### Projects
   - **[Airbnb Market Analysis (Athens)](https://github.com/mslawsky/market-analysis-airbnb-athens):** Visualized key trends and customer preferences to identify underserved areas and market opportunities for Athens Airbnb.
@@ -28,7 +28,7 @@ ___
 </details>
 
 <details>
-  <summary>🔬 Diagnostic Analytics</summary>
+  <summary>Diagnostic Analytics 🔬</summary>
   
   ### Projects
   - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Decoded NBA career sustainability using classification modeling and factor analysis, highlighting efficiency metrics as a key leverage point for talent strategy.
@@ -36,7 +36,7 @@ ___
 </details>
 
 <details>
-  <summary>🤖 Predictive Analytics (Supervised ML)</summary>
+  <summary>Predictive Analytics (Supervised ML) 🤖</summary>
   
   ### Clients/Users
   - **[Airline Customer Satisfaction](https://github.com/mslawsky/airline-customer-satisfaction-prediction):** Utilized ML models to predict customer satisfaction, identifying key drivers and providing actionable insights to enhance customer experience.
@@ -51,7 +51,7 @@ ___
 </details>
 
 <details>
-  <summary>📋 Prescriptive Analytics</summary>
+  <summary>Prescriptive Analytics 📋</summary>
   
   ### Projects
   - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Applied linear regression and statistical analysis to optimize budget allocation for maximum sales impact.
@@ -59,14 +59,14 @@ ___
 </details>
 
 <details>
-  <summary>🧠 Cognitive Analytics</summary>
+  <summary>Cognitive Analytics 🧠</summary>
   
   ### Projects
   - **[Waze - Beyond the Numbers](https://github.com/mslawsky/waze-beyond-the-numbers):** Combines AI and ML to uncover root causes of churn patterns, providing deep insights into user behavior and preferences.
 </details>
 
 <details>
-  <summary>📊 Clustering Approaches (Unsupervised ML)</summary>
+  <summary>Clustering Approaches (Unsupervised ML) 📊</summary>
   
   ### Projects
   - **[K-Means Color Compression](https://github.com/mslawsky/k-means-color-regression):** Leveraged clustering to extract color palettes for efficient image compression.
@@ -74,14 +74,14 @@ ___
 </details>
 
 <details>
-  <summary>🔍 Exploratory Data Analysis (Qualitative Research)</summary>
+  <summary>Exploratory Data Analysis (Qualitative Research) 🔍</summary>
   
   ### Projects
   - **[Qualitative Dissertation Research](https://github.com/mslawsky/qualitative-dissertation-research):** Conducted thematic analysis using Nvivo on 20+ hours of interview data, uncovering insights for program improvement and professional development.
 </details>
 
 <details>
-  <summary>🌐 Integrated Analytics Projects</summary>
+  <summary>Integrated Analytics Projects 🌐</summary>
   
   ### Projects
   - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Combines descriptive, diagnostic, and prescriptive analytics for channel optimization.
@@ -89,6 +89,7 @@ ___
     - **[Version 1](https://github.com/mslawsky/time-optimization-v1-using-80-20-analysis):** Applies the Pareto principle for efficiency.
     - **[Version 2](https://github.com/mslawsky/time-optimization-v2-beyond-80-20):** Balances efficiency with multi-horizon goals.
 </details>
+
 
 ___
 
