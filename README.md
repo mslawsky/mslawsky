@@ -152,13 +152,14 @@ Leveraging traffic pattern analysis to optimize infrastructure planning and reso
 
 
 ___
-### 5. Qualitative Insights for Program Enhancement
-<img src="https://raw.githubusercontent.com/mslawsky/qualitative-dissertation-research/main/thematic-analysis.png" alt="Thematic Analysis Framework" width="45%">
+### 5. Predictive Workforce Analytics: Employee Retention Strategies
+<img src="correlation-matrix.png" width="50%">
 
-[View Full Project](https://github.com/mslawsky/qualitative-dissertation-research)
-- Analyzed 20+ hours of interview data
-- Developed comprehensive thematic framework using qualitative data analysis
-- Published dissertation exploring experiential learning
+[View Full Project](https://github.com/mslawsky/predicting-employee-turnover)
+- Developed machine learning models predicting employee turnover with 85% accuracy
+- Identified critical factors driving workforce attrition in automotive manufacturing
+- Transformed predictive insights into strategic HR retention strategies
+- Leveraged Random Forest and Logistic Regression for advanced workforce analytics
 
 
 ## Skills & Expertise 📐
