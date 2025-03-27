@@ -20,6 +20,15 @@ ___
 ## Business Analytics Projects 📉
 
 <details>
+  <summary>Advanced Statistical Analysis 📊</summary>
+  
+  ### Projects
+  - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Applied multivariate statistical techniques, including logistic regression and survival analysis, to decode NBA career sustainability and identify key leverage points.
+  - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Used linear regression and hypothesis testing to optimize marketing spend for maximum ROI.
+  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Conducted ANOVA and chi-square tests to identify turnover patterns and validate predictive models.
+</details>
+
+<details>
   <summary>Descriptive Analytics 📈</summary>
   
   ### Projects
@@ -166,6 +175,23 @@ ___
   - Performance Optimization
   - Workflow Automation
 </details>
+
+<details>
+  <summary>Advanced Statistical Analysis 📐</summary>
+  
+  ### Techniques
+  - Multivariate Analysis (e.g., PCA, Factor Analysis)
+  - Regression Models (Linear, Logistic, Ridge, Lasso)
+  - Hypothesis Testing (t-tests, ANOVA, chi-square)
+  - Time Series Analysis & Forecasting
+  - Survival Analysis & Reliability Analysis
+
+  ### Tools
+  - R, Python (statsmodels, scipy)
+  - SPSS, SAS
+  - Excel (Advanced Statistical Functions)
+</details>
+
 
 <details>
   <summary>Analytics & Intelligence 📊</summary>
