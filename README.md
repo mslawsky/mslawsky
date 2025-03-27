@@ -153,7 +153,7 @@ Leveraging traffic pattern analysis to optimize infrastructure planning and reso
 
 ___
 ### 5. Predictive Workforce Analytics: Employee Retention Strategies
-<img src="correlation-matrix.png" width="50%">
+<img src="correlation-matrix.png" width="65%">
 
 [View Full Project](https://github.com/mslawsky/predicting-employee-turnover)
 - Developed machine learning models predicting employee turnover with 85% accuracy
