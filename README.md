@@ -16,7 +16,7 @@ Strategy and operations specialist, accelerating value, growth, and performance 
 - Converting analytics into actionable business intelligence
 
 ___
-## Business Analytics 🧮
+## Business Analytics Projects 📉
 
 <details>
   <summary>📈 Descriptive Analytics</summary>
