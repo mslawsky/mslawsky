@@ -247,9 +247,10 @@ ___
 
 
 ## Contact 📧
+- [LinkedIn](https://www.linkedin.com/in/melissaslawsky/)
 - [Client Results](https://melissaslawsky.com/client-results/)
 - [Tableau Portfolio](https://public.tableau.com/app/profile/melissa.slawsky1925/vizzes)
 - [Email](mailto:melissa@melissaslawsky.com)
 
 ---
-© Melissa Slawsky 2024. All Rights Reserved.
+© Melissa Slawsky 2025. All Rights Reserved.
