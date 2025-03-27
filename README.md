@@ -155,7 +155,7 @@ ___
 ## Skills & Expertise 📐
 
 <details>
-  <summary>💡 Strategic Innovation</summary>
+  <summary>Strategic Innovation 💡</summary>
   
   ### Systems
   - Innovation Systems
@@ -168,7 +168,7 @@ ___
 </details>
 
 <details>
-  <summary>📊 Analytics & Intelligence</summary>
+  <summary>Analytics & Intelligence 📊</summary>
   
   ### Tools
   - Business Intelligence
@@ -182,7 +182,7 @@ ___
 </details>
 
 <details>
-  <summary>🔄 Operations Excellence</summary>
+  <summary>Operations Excellence 🔄</summary>
   
   ### Design
   - Process Optimization
@@ -195,7 +195,7 @@ ___
 </details>
 
 <details>
-  <summary>🔍 Research Methods</summary>
+  <summary>Research Methods 🔍</summary>
   
   ### Analysis
   - Qualitative Methods
@@ -207,6 +207,7 @@ ___
   - Market Intelligence
   - Pattern Recognition
 </details>
+
 
 
 
