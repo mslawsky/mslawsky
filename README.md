@@ -27,7 +27,7 @@ ___
 </details>
 
 <details>
-  <summary>🔍 Diagnostic Analytics</summary>
+  <summary>🔬 Diagnostic Analytics</summary>
   
   ### Projects
   - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Decoded NBA career sustainability using classification modeling and factor analysis, highlighting efficiency metrics as a key leverage point for talent strategy.
@@ -50,7 +50,7 @@ ___
 </details>
 
 <details>
-  <summary>🧭 Prescriptive Analytics</summary>
+  <summary>📋 Prescriptive Analytics</summary>
   
   ### Projects
   - **[Marketing Budget Impact Analysis](https://github.com/mslawsky/marketing-budget-impact-analysis):** Applied linear regression and statistical analysis to optimize budget allocation for maximum sales impact.
