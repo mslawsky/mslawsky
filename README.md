@@ -14,7 +14,7 @@ Strategy and operations specialist, accelerating value, growth, and performance 
 - Real-time dashboard development for proactive decision-making
 - Data-driven optimization systems for scaling operations
 - Converting analytics into actionable business intelligence
-- Advanced machine learning modeling for predictive insights and strategic decision support 
+- Predictive modeling for strategic decision support 
 
 ___
 
