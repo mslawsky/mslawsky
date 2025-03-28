@@ -79,87 +79,6 @@ Predicting key drivers of employee retention using regression analysis and machi
 - Leveraged Random Forest and Logistic Regression for advanced workforce analytics
 
 
-## Skills & Expertise 📐
-
-<details>
-  <summary>Strategic Innovation 💡</summary>
-  
-  ### Systems
-  - Innovation Systems
-  - Tech-enabled Consulting
-  - Value Modeling
-  
-  ### Process
-  - Performance Optimization
-  - Workflow Automation
-</details>
-
-<details>
-  <summary>Advanced Statistical Analysis 📐</summary>
-  
-  ### Techniques
-  - Multivariate Analysis (e.g., PCA, Factor Analysis)
-  - Regression Models (Linear, Logistic, Ridge, Lasso)
-  - Hypothesis Testing (t-tests, ANOVA, chi-square)
-  - Time Series Analysis & Forecasting
-  - Survival Analysis & Reliability Analysis
-
-  ### Tools
-  - R, Python (statsmodels, scipy)
-  - SPSS, SAS
-  - Excel (Advanced Statistical Functions)
-</details>
-
-
-<details>
-  <summary>Analytics & Intelligence 📊</summary>
-  
-   ### Tools
-  - Business Intelligence
-  - Advanced Analytics
-  - Predictive Modeling
-  - Real-time Dashboards
-  
-  ### Platforms
-  - Tableau
-  - BigQuery
-  - Airtable (Relational Databases)
-  - SQL, Python (Data Preparation)
-  - Power BI
-  
-  ### Techniques
-  - Data Cleaning & ETL
-  - Data Visualization & Storytelling
-  - Forecasting & Segmentation
-  - Hypothesis Testing
-</details>
-
-<details>
-  <summary>Operations Excellence 🔄</summary>
-  
-  ### Design
-  - Process Optimization
-  - System Design
-  - Resource Allocation
-  
-  ### Monitoring
-  - Performance Analytics
-  - Real-time Insights
-</details>
-
-<details>
-  <summary>Research Methods 🔍</summary>
-  
-  ### Analysis
-  - Qualitative Methods
-  - Quantitative Analysis
-  - Thematic Coding
-  
-  ### Applications
-  - Interview Methods
-  - Market Intelligence
-  - Pattern Recognition
-</details>
 
 ___
 
@@ -248,6 +167,89 @@ ___
 
 ___
 
+## Skills & Expertise 📐
+
+<details>
+  <summary>Strategic Innovation 💡</summary>
+  
+  ### Systems
+  - Innovation Systems
+  - Tech-enabled Consulting
+  - Value Modeling
+  
+  ### Process
+  - Performance Optimization
+  - Workflow Automation
+</details>
+
+<details>
+  <summary>Advanced Statistical Analysis 📐</summary>
+  
+  ### Techniques
+  - Multivariate Analysis (e.g., PCA, Factor Analysis)
+  - Regression Models (Linear, Logistic, Ridge, Lasso)
+  - Hypothesis Testing (t-tests, ANOVA, chi-square)
+  - Time Series Analysis & Forecasting
+  - Survival Analysis & Reliability Analysis
+
+  ### Tools
+  - R, Python (statsmodels, scipy)
+  - SPSS, SAS
+  - Excel (Advanced Statistical Functions)
+</details>
+
+
+<details>
+  <summary>Analytics & Intelligence 📊</summary>
+  
+   ### Tools
+  - Business Intelligence
+  - Advanced Analytics
+  - Predictive Modeling
+  - Real-time Dashboards
+  
+  ### Platforms
+  - Tableau
+  - BigQuery
+  - Airtable (Relational Databases)
+  - SQL, Python (Data Preparation)
+  - Power BI
+  
+  ### Techniques
+  - Data Cleaning & ETL
+  - Data Visualization & Storytelling
+  - Forecasting & Segmentation
+  - Hypothesis Testing
+</details>
+
+<details>
+  <summary>Operations Excellence 🔄</summary>
+  
+  ### Design
+  - Process Optimization
+  - System Design
+  - Resource Allocation
+  
+  ### Monitoring
+  - Performance Analytics
+  - Real-time Insights
+</details>
+
+<details>
+  <summary>Research Methods 🔍</summary>
+  
+  ### Analysis
+  - Qualitative Methods
+  - Quantitative Analysis
+  - Thematic Coding
+  
+  ### Applications
+  - Interview Methods
+  - Market Intelligence
+  - Pattern Recognition
+</details>
+
+___
 
 
 ## Contact 📧
