@@ -133,13 +133,6 @@ ___
 </details>
 
 <details>
-  <summary>Cognitive Analytics 🧠</summary>
-  
-  ### Projects
-  - **[Waze - Beyond the Numbers](https://github.com/mslawsky/waze-beyond-the-numbers):** Combines AI and ML to uncover root causes of churn patterns, providing deep insights into user behavior and preferences.
-</details>
-
-<details>
   <summary>Clustering Approaches (Unsupervised ML) 📊</summary>
   
   ### Projects
