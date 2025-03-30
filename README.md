@@ -21,7 +21,7 @@ ___
 ## Portfolio Highlights 🔎
 
 ### 1. Scaling Operations: From Advisory to Analytics
-Showcasing progression from service design to data-driven insights, highlighting automation and efficiency gains while maintaining quality.
+Showcasing progression from service design to data-driven insights, highlighting automation and efficiency gains while maintaining quality and client experience.
 <p float="left">
  <img src="scaling-services-2.png" width="30%" />
  <img src="data-insights-report.png" width="30%" />
