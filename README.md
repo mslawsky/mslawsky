@@ -66,9 +66,19 @@ Determining ROI and most impactful marketing channels through advanced statistic
 - Quantified ROI for different marketing strategies with statistical precision
 - Enabled data-driven decision-making for strategic resource allocation
 
+___
+### 5. Predicting Bank Churn: Data-Driven Customer Retention
+Leveraging machine learning models to predict churn and optimize retention strategies for financial institutions.
+<img src="bank-churn-dashboard.png" width="50%">
+
+[View Full Project](https://github.com/mslawsky/predicting-bank-customer-churn)
+
+- Applied Random Forest and Logistic Regression models for churn prediction with 87% accuracy
+- Developed predictive models identifying at-risk customer segments and most important features
+- Enabled proactive retention by pinpointing high-risk segments and tailored interventions.
 
 ___
-### 5. Predictive Workforce Analytics: Employee Retention Strategies
+### 6. Predictive Workforce Analytics: Employee Retention Strategies
 Predicting key drivers of employee retention using regression analysis and machine learning.
 <img src="correlation-matrix.png" width="60%">
 
@@ -77,7 +87,6 @@ Predicting key drivers of employee retention using regression analysis and machi
 - Identified critical factors driving workforce attrition in automotive manufacturing
 - Transformed predictive insights into strategic HR retention strategies
 - Leveraged Random Forest and Logistic Regression for advanced workforce analytics
-
 
 
 ___
