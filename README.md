@@ -75,7 +75,7 @@ Leveraging machine learning models to predict churn and optimize retention strat
 
 - Applied Random Forest and Logistic Regression models for churn prediction with 87% accuracy
 - Developed predictive models identifying at-risk customer segments and most important features
-- Enabled proactive retention by pinpointing high-risk segments and tailored interventions.
+- Enabled proactive retention by pinpointing high-risk segments and tailored interventions
 
 ___
 ### 6. Predictive Workforce Analytics: Employee Retention Strategies
