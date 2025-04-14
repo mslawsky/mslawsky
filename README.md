@@ -182,83 +182,39 @@ ___
 ## Skills & Expertise 📐
 
 <details>
-  <summary>Strategic Innovation 💡</summary>
+  <summary>Strategic Planning & Business Acumen 💡</summary>
+
+  - Growth Frameworks
+  - Process Optimization
+  - Cross-Functional Collaboration
   
-  ### Systems
-  - Innovation Systems
-  - Tech-enabled Consulting
-  - Value Modeling
-  
-  ### Process
-  - Performance Optimization
-  - Workflow Automation
 </details>
 
 <details>
-  <summary>Advanced Statistical Analysis 📐</summary>
-  
-  ### Techniques
-  - Multivariate Analysis (e.g., PCA, Factor Analysis)
-  - Regression Models (Linear, Logistic, Ridge, Lasso)
-  - Hypothesis Testing (t-tests, ANOVA, chi-square)
-  - Time Series Analysis & Forecasting
-  - Survival Analysis & Reliability Analysis
-
-  ### Tools
-  - R, Python (statsmodels, scipy)
-  - SPSS, SAS
-  - Excel (Advanced Statistical Functions)
+  <summary>Data Analytics & Visualization 📊</summary>
+ - Tools: Python (Pandas, NumPy), SQL, Tableau, Power BI
+- Techniques: Predictive Modeling, Statistical Analysis (Regression), Machine Learning
+ 
 </details>
 
 
 <details>
-  <summary>Analytics & Intelligence 📊</summary>
-  
-   ### Tools
-  - Business Intelligence
-  - Advanced Analytics
-  - Predictive Modeling
-  - Real-time Dashboards
-  
-  ### Platforms
-  - Tableau
-  - BigQuery
-  - Airtable (Relational Databases)
-  - SQL, Python (Data Preparation)
-  - Power BI
-  
-  ### Techniques
-  - Data Cleaning & ETL
-  - Data Visualization & Storytelling
-  - Forecasting & Segmentation
-  - Hypothesis Testing
+  <summary>Business Intelligence 📈</summary>
+  - Real-Time Dashboards
+- Data Storytelling & Visualization
+- Decision Support Systems
+ 
 </details>
 
 <details>
   <summary>Operations Excellence 🔄</summary>
   
-  ### Design
-  - Process Optimization
-  - System Design
-  - Resource Allocation
-  
-  ### Monitoring
-  - Performance Analytics
-  - Real-time Insights
-</details>
 
 <details>
-  <summary>Research Methods 🔍</summary>
-  
-  ### Analysis
-  - Qualitative Methods
-  - Quantitative Analysis
-  - Thematic Coding
-  
-  ### Applications
-  - Interview Methods
-  - Market Intelligence
-  - Pattern Recognition
+  <summary>Research & Problem-Solving 🔍</summary>
+  - Qualitative & Quantitative Analysis
+- Hypothesis Testing & Experimentation
+ 
 </details>
 
 ___
