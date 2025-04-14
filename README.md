@@ -18,8 +18,10 @@ ___
 - **Cross-Functional Alignment**: Collaborating across Sales, Marketing, Finance, and Product teams to align strategies.
 - **Process Optimization**: Streamlining systems to improve resource allocation, quality, and client experiences.
 - **Predictive Analytics**: Transforming complex data into insights that support informed decision-making.
+  
 
 ___
+
 
 ## Portfolio Highlights 🔎
 
@@ -32,6 +34,7 @@ Showcasing progression from service design to data-driven insights, highlighting
 </p>
 
 [View Project Overview](https://github.com/mslawsky/consumer-insights-and-analytics-evolution)
+**Key Business Impacts:**
 - Transitioned from service design to data-driven insights, focusing on automation and efficiency gains while maintaining quality.
 - Collaborated with stakeholders across departments to design intuitive dashboards that enabled real-time decision-making.
 - Delivered actionable insights by analyzing qualitative and quantitative data to uncover customer behavior patterns.
@@ -42,6 +45,7 @@ Strategic market analysis leveraging business intelligence to identify growth op
 
 [View Full Project](https://github.com/mslawsky/market-analysis-airbnb-athens)
 <img src="tableau-visualization.png" width="50%">
+**Key Business Impacts:**
 - Transformed Excel data into interactive visualizations revealing pricing trends and market opportunities
 - Mapped geographical concentrations to identify underserved neighborhoods
 - Developed data-driven framework for strategic market expansion
@@ -53,6 +57,7 @@ Implementation of 80/20 analysis for sustainable growth, demonstrating systemati
 <img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
 
 [View Full Project](https://github.com/mslawsky/google-fiber-dashboard-analytics)
+**Key Business Impacts:**
 - Conducted strategic market analysis using business intelligence tools to identify growth opportunities and optimize market positioning.
 - Translated raw data into interactive visualizations (Tableau) that informed cross-functional teams on pricing trends and underserved markets.
 - Developed a data-driven framework for strategic market expansion, enabling leadership to make informed decisions.
@@ -63,7 +68,8 @@ Determining ROI and most impactful marketing channels through advanced statistic
 <img src="marketing-channel-roi-distribution.png" width="55%">
 
 [View Full Project](https://github.com/mslawsky/marketing-budget-impact-analysis)
-- Applied linear regression models to optimize marketing budget allocation for maximum ROI.
+**Key Business Impacts:**
+- Applied linear regression models to optimize marketing budget allocation for maximum ROI
 - Developed predictive models identifying most effective marketing channels
 - Quantified ROI for different marketing strategies with statistical precision
 - Enabled data-driven decision-making for strategic resource allocation
@@ -74,7 +80,7 @@ Leveraging machine learning models to predict churn and optimize retention strat
 <img src="bank-churn-dashboard.png" width="50%">
 
 [View Full Project](https://github.com/mslawsky/predicting-bank-customer-churn)
-
+**Key Business Impacts:**
 - Built machine learning models (Random Forest, Logistic Regression) to predict customer churn with 87% accuracy
 - Identified at-risk customer segments and provided actionable recommendations that reduced churn rates by 15%, improving customer lifetime value
 - Collaborated with marketing and operations teams to implement targeted interventions based on predictive insights
@@ -85,6 +91,7 @@ Predicting key drivers of employee retention using regression analysis and machi
 <img src="correlation-matrix.png" width="60%">
 
 [View Full Project](https://github.com/mslawsky/predicting-employee-turnover)
+**Key Business Impacts:**
 - Developed machine learning models predicting employee turnover with 85% accuracy
 - Identified critical factors driving workforce attrition in automotive manufacturing
 - Transformed predictive insights into strategic HR retention strategies
