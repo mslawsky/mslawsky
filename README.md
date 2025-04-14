@@ -11,21 +11,13 @@ Strategy and Operations Analyst, accelerating value, growth, and performance for
 
 ___
 
-## Key Strengths 🌟
-- Strategic Planning: Expertise in designing frameworks for growth and operational efficiency.
-- Data Analytics: Proficient in Python, SQL, Tableau, Power BI, and machine learning techniques for deriving actionable insights.
-- Business Intelligence: Skilled in creating dashboards and reports that inform critical decisions across departments.
-- Cross-Functional Collaboration: Experienced in working with Sales, Marketing, Finance, and Product teams to align on strategic priorities.
-- Process Optimization: Proven ability to streamline workflows and improve resource allocation through data-driven approaches.
-
-___
-
 ## Current Focus 🔬
-- Data-Driven strategies to accelerate growth
-- Real-time dashboards for cross-functional collaboration
-- Optimizing processes and systems for quality and client experience
-- Transforming complex datasets into actionable business insights
-- Decision support with predictive analytics
+- **Strategic Growth**: Designing frameworks that drive operational efficiency and sustainable growth.
+- **Data-Driven Insights**: Leveraging Python, SQL, Tableau, and machine learning for actionable analytics.
+- **Business Intelligence**: Creating real-time dashboards and visualizations to enhance decision-making.
+- **Cross-Functional Alignment**: Collaborating across Sales, Marketing, Finance, and Product teams to align strategies.
+- **Process Optimization**: Streamlining systems to improve resource allocation, quality, and client experiences.
+- **Predictive Analytics**: Transforming complex data into insights that support informed decision-making.
 
 ___
 
