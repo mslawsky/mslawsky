@@ -192,28 +192,26 @@ ___
 
 <details>
   <summary>Data Analytics & Visualization 📊</summary>
+ 
  - Tools: Python (Pandas, NumPy), SQL, Tableau, Power BI
-- Techniques: Predictive Modeling, Statistical Analysis (Regression), Machine Learning
+ - Techniques: Predictive Modeling, Statistical Analysis (Regression), Machine Learning
  
 </details>
 
 
 <details>
   <summary>Business Intelligence 📈</summary>
+ 
   - Real-Time Dashboards
-- Data Storytelling & Visualization
-- Decision Support Systems
+  - Data Storytelling & Visualization
+  - Decision Support Systems
  
 </details>
 
-<details>
-  <summary>Operations Excellence 🔄</summary>
-  
-
-<details>
   <summary>Research & Problem-Solving 🔍</summary>
+  
   - Qualitative & Quantitative Analysis
-- Hypothesis Testing & Experimentation
+  - Hypothesis Testing & Experimentation
  
 </details>
 
