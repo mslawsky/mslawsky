@@ -193,11 +193,10 @@ ___
 <details>
   <summary>Data Analytics & Visualization 📊</summary>
  
- - Tools: Python (Pandas, NumPy), SQL, Tableau, Power BI
- - Techniques: Predictive Modeling, Statistical Analysis (Regression), Machine Learning
+  - Tools: Python (Pandas, NumPy), SQL, Tableau, Power BI
+  - Techniques: Predictive Modeling, Statistical Analysis (Regression), Machine Learning
  
 </details>
-
 
 <details>
   <summary>Business Intelligence 📈</summary>
@@ -208,12 +207,14 @@ ___
  
 </details>
 
+<details>
   <summary>Research & Problem-Solving 🔍</summary>
   
   - Qualitative & Quantitative Analysis
   - Hypothesis Testing & Experimentation
- 
+
 </details>
+
 
 ___
 
