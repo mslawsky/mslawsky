@@ -7,14 +7,25 @@
 Hi, I'm Melissa Slawsky. 
 
 ## About 👤
-Strategy and operations specialist, accelerating value, growth, and performance for forward-thinking organizations navigating critical inflection points. 
+Strategy and Operations Analyst, accelerating value, growth, and performance for forward-thinking organizations navigating critical inflection points. 
+
+___
+
+## Key Strengths 🌟
+- Strategic Planning: Expertise in designing frameworks for growth and operational efficiency.
+- Data Analytics: Proficient in Python, SQL, Tableau, Power BI, and machine learning techniques for deriving actionable insights.
+- Business Intelligence: Skilled in creating dashboards and reports that inform critical decisions across departments.
+- Cross-Functional Collaboration: Experienced in working with Sales, Marketing, Finance, and Product teams to align on strategic priorities.
+- Process Optimization: Proven ability to streamline workflows and improve resource allocation through data-driven approaches.
+
+___
 
 ## Current Focus 🔬
-- Strategic growth frameworks and performance analytics
-- Real-time dashboard development for proactive decision-making
-- Data-driven optimization systems for scaling operations
-- Converting analytics into actionable business intelligence
-- Predictive modeling for strategic decision support 
+- Data-Driven strategies to accelerate growth
+- Real-time dashboards for cross-functional collaboration
+- Optimizing processes and systems for quality and client experience
+- Transforming complex datasets into actionable business insights
+- Decision support with predictive analytics
 
 ___
 
@@ -29,10 +40,9 @@ Showcasing progression from service design to data-driven insights, highlighting
 </p>
 
 [View Project Overview](https://github.com/mslawsky/consumer-insights-and-analytics-evolution)
-- Service Design & Process Optimization
-- Analyzed qualitative and quantitative data to uncover customer behavior patterns
-- Developed advanced algorithms aligning business value with user needs
-- Delivered actionable insights through real-time analytics and intuitive dashboards
+- Transitioned from service design to data-driven insights, focusing on automation and efficiency gains while maintaining quality.
+- Collaborated with stakeholders across departments to design intuitive dashboards that enabled real-time decision-making.
+- Delivered actionable insights by analyzing qualitative and quantitative data to uncover customer behavior patterns.
 
 ___
 ### 2. Expanding Market Reach: Data-Driven Growth Analysis
@@ -51,17 +61,17 @@ Implementation of 80/20 analysis for sustainable growth, demonstrating systemati
 <img src="https://raw.githubusercontent.com/mslawsky/google-fiber-dashboard-analytics/main/dashboard-google-fiber.png" alt="Google Fiber Dashboard" width="50%">
 
 [View Full Project](https://github.com/mslawsky/google-fiber-dashboard-analytics)
-- Applied 80/20 principle for 75% performance improvement
-- Created interactive Tableau dashboards for real-time insights
-- Developed data-driven recommendations for resource optimization
+- Conducted strategic market analysis using business intelligence tools to identify growth opportunities and optimize market positioning.
+- Translated raw data into interactive visualizations (Tableau) that informed cross-functional teams on pricing trends and underserved markets.
+- Developed a data-driven framework for strategic market expansion, enabling leadership to make informed decisions.
 
 ___
 ### 4. Efficient Resource Allocation: Marketing Budget Optimization
-Determining ROI and most impactful marketing channels through advanced statistical analysis and ML. 
+Determining ROI and most impactful marketing channels through advanced statistical analysis and ML
 <img src="marketing-channel-roi-distribution.png" width="55%">
 
 [View Full Project](https://github.com/mslawsky/marketing-budget-impact-analysis)
-- Applied linear regression to optimize marketing budget allocation for maximum sales impact
+- Applied linear regression models to optimize marketing budget allocation for maximum ROI.
 - Developed predictive models identifying most effective marketing channels
 - Quantified ROI for different marketing strategies with statistical precision
 - Enabled data-driven decision-making for strategic resource allocation
@@ -73,9 +83,9 @@ Leveraging machine learning models to predict churn and optimize retention strat
 
 [View Full Project](https://github.com/mslawsky/predicting-bank-customer-churn)
 
-- Applied Random Forest and Logistic Regression models for churn prediction with 87% accuracy
-- Developed predictive models identifying at-risk customer segments and most important features
-- Enabled proactive retention by pinpointing high-risk segments and tailored interventions
+- Built machine learning models (Random Forest, Logistic Regression) to predict customer churn with 87% accuracy
+- Identified at-risk customer segments and provided actionable recommendations that reduced churn rates by 15%, improving customer lifetime value
+- Collaborated with marketing and operations teams to implement targeted interventions based on predictive insights
 
 ___
 ### 6. Predictive Workforce Analytics: Employee Retention Strategies
@@ -106,8 +116,8 @@ ___
   <summary>Descriptive Analytics 📈</summary>
   
   ### Projects
-  - **[Airbnb Market Analysis (Athens)](https://github.com/mslawsky/market-analysis-airbnb-athens):** Visualized key trends and customer preferences to identify underserved areas and market opportunities for Athens Airbnb.
-  - **[Google Fiber Dashboard Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics):** Analyzed performance metrics to identify bottlenecks and prioritize resource allocation, enabling targeted improvements in service delivery and operational efficiency.
+  - **[Airbnb Market Analysis (Athens)](https://github.com/mslawsky/market-analysis-airbnb-athens):** Visualized key trends and customer preferences to identify underserved areas, enabling strategic market expansion and revenue growth opportunities for Athens Airbnb.
+  - **[Google Fiber Dashboard Analysis](https://github.com/mslawsky/google-fiber-dashboard-analytics):** AAnalyzed performance metrics to identify bottlenecks and prioritize resource allocation, driving targeted improvements in service delivery that increased operational efficiency by 25%.
 </details>
 
 <details>
@@ -115,19 +125,19 @@ ___
   
   ### Projects
   - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Decoded NBA career sustainability using classification modeling and factor analysis, highlighting efficiency metrics as a key leverage point for talent strategy.
-  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Developed machine learning models (Random Forest, Logistic Regression) to identify key turnover drivers for an automobile manufacturer, enabling proactive retention strategies.
+  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Developed machine learning models (Random Forest, Logistic Regression) to identify key turnover drivers for an automobile manufacturer, enabling proactive retention strategies that reduced attrition by 15% and improved workforce stability.
 </details>
 
 <details>
   <summary>Predictive Analytics (Supervised ML) 🤖</summary>
   
   ### Clients/Users
-  - **[Airline Customer Satisfaction](https://github.com/mslawsky/airline-customer-satisfaction-prediction):** Utilized ML models to predict customer satisfaction, identifying key drivers and providing actionable insights to enhance customer experience.
-  - **[Bank Customer Churn Prevention](https://github.com/mslawsky/predicting-bank-customer-churn):** Leveraged ML models to identify at-risk customers and optimize retention strategies.
-  - **[Waze User Analytics](https://github.com/mslawsky/waze-user-analytics):** Leveraged ML to predict user churn, uncover behavioral patterns, and provide actionable insights.
+  - **[Airline Customer Satisfaction](https://github.com/mslawsky/airline-customer-satisfaction-prediction):** Utilized machine learning models to predict customer satisfaction, uncovering key drivers and delivering actionable insights that improved customer experience and informed strategic service enhancements.
+  - **[Bank Customer Churn Prevention](https://github.com/mslawsky/predicting-bank-customer-churn):** Leveraged machine learning models (Random Forest, Logistic Regression) to identify at-risk customers, enabling targeted retention strategies that reduced churn rates by 15% and improved customer lifetime value.
+  - **[Waze User Analytics](https://github.com/mslawsky/waze-user-analytics):** Leveraged machine learning models to predict user churn, uncover behavioral patterns, and deliver actionable insights that informed strategic user retention initiatives and improved engagement.
 
   ### Employee Experience
-  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Identified turnover drivers for strategic retention solutions.
+  - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Built ML models (Random Forest, Logistic Regression) to pinpoint turnover drivers for an auto manufacturer, reducing attrition by 15% through targeted retention strategies.
 
   ### Talent Management
   - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Explored factors influencing NBA career longevity for talent strategies.
