@@ -134,16 +134,19 @@ ___
 </details>
 
 <details>
-  <summary>Predictive Analytics (Supervised ML) 🤖</summary>
+ <summary>Predictive Analytics (Supervised ML) 🤖</summary>
   
   ### Clients/Users
   - **[Airline Customer Satisfaction](https://github.com/mslawsky/airline-customer-satisfaction-prediction):** Utilized machine learning models to predict customer satisfaction, uncovering key drivers and delivering actionable insights that improved customer experience and informed strategic service enhancements.
   - **[Bank Customer Churn Prevention](https://github.com/mslawsky/predicting-bank-customer-churn):** Leveraged machine learning models (Random Forest, Logistic Regression) to identify at-risk customers, enabling targeted retention strategies that reduced churn rates by 15% and improved customer lifetime value.
   - **[Waze User Analytics](https://github.com/mslawsky/waze-user-analytics):** Leveraged machine learning models to predict user churn, uncover behavioral patterns, and deliver actionable insights that informed strategic user retention initiatives and improved engagement.
-
+  
+  ### Real Estate & Property Valuation
+  - **[Housing Price Prediction Neural Network](https://github.com/mslawsky/predicting-housing-prices):** Developed a TensorFlow neural network model that accurately predicts house prices based on bedroom count, demonstrating the power of deep learning for real estate valuation with prediction accuracy within 1.25% of expected values.
+  
   ### Employee Experience
   - **[Predicting Employee Turnover](https://github.com/mslawsky/predicting-employee-turnover):** Built ML models (Random Forest, Logistic Regression) to pinpoint turnover drivers for an auto manufacturer, reducing attrition by 15% through targeted retention strategies.
-
+  
   ### Talent Management
   - **[NBA Career Longevity Analysis](https://github.com/mslawsky/nba-career-longevity-analysis):** Explored factors influencing NBA career longevity for talent strategies.
 </details>
